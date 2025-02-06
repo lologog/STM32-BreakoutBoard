@@ -16,21 +16,27 @@ This board is designed for prototyping with STM32 microcontrollers. It enables e
 ## PCB Rendering
 Below is a 3D render generated in KiCad:
 
-![3D View](Images/PCB_3D_Visualisation.png)
+<div align="center">
+    <img src="Images/PCB_3D_Visualisation.png" alt="3D View" width="500"/>
+</div>
 
 ---
 
 ## Real-World Implementation
 This is the completed PCB:
 
-<img src="Images/PCB_Realisation.jpg" alt="Real PCB" width="500"/>
+<div align="center">
+    <img src="Images/PCB_Realisation.jpg" alt="Real PCB" width="500"/>
+</div>
 
 ---
 
 ## Presentation
 Below is an animated preview of the board in action:
 
-![Demo GIF](Images/Presentation.gif)
+<div align="center">
+    <img src="Images/Presentation.gif" alt="Demo GIF" width="500"/>
+</div>
 
 ---
 
