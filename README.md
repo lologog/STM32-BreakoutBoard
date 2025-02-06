@@ -23,7 +23,7 @@ Below is a 3D render generated in KiCad:
 ## Real-World Implementation
 This is the completed PCB:
 
-![Real PCB](Images/PCB_Realisation.jpg)
+<img src="Images/PCB_Realisation.jpg" alt="Real PCB" width="500"/>
 
 ---
 
