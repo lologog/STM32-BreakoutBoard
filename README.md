@@ -40,9 +40,6 @@ Below is an animated preview of the board in action:
 3. Upload test firmware.
 4. Test GPIO pin functionality and develop your applications.
 
-## License
-This project is released under the **MIT License**.
-
 ## Author
 - **Name**: Krzysztof Tomicki
 - **Contact**: tomicki.krzysztof.pv@gmail.com
