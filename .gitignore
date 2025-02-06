@@ -1,0 +1,29 @@
+# Ignore STM32CubeIDE and build artifacts inside ExampleCode/
+ExampleCode/Debug/
+ExampleCode/Release/
+ExampleCode/*.o
+ExampleCode/*.elf
+ExampleCode/*.bin
+ExampleCode/*.hex
+ExampleCode/*.map
+ExampleCode/.settings/
+ExampleCode/.metadata/
+ExampleCode/*.launch
+ExampleCode/*.log
+ExampleCode/*.prefs
+ExampleCode/Drivers/
+
+# STM32CubeMX files
+ExampleCode/*.mxproject
+ExampleCode/*cproject
+ExampleCode/*project
+
+# Ignore other project-specific files
+ExampleCode/_htmresc/
+ExampleCode/*.html
+ExampleCode/*.chm
+ExampleCode/*.xml
+/.metadata/
+
+# Ignore PCB folder
+PCB/
