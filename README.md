@@ -42,7 +42,7 @@ Below is an animated preview of the board in action:
 
 ## Usage Instructions
 1. Connect a 5V power supply to the barrel connector.
-2. Connect the **ST-Link v3 Mini** programmer.
+2. Connect the **STLINK-V3MINIE** programmer.
 3. Upload test firmware.
 4. Test GPIO pin functionality and develop your applications.
 
