@@ -26,4 +26,7 @@ ExampleCode/*.xml
 /.metadata/
 
 # Ignore PCB folder
-PCB/
+PCB/DIP_board_for_STM32L476RGT6-backups
+PCB/fp-info-cache
+PCB/DIP_board_for_STM32L476RGT6.kicad_prl
+PCB/~board_for_STM32L476RGT6.kicad_pcb.lck
